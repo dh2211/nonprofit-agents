@@ -1,6 +1,6 @@
 # Examples
 
-Each file is a worked output from following the skills for one invented organization. The request at the top of each file is what the agent was given. Every organization, funder, figure, and story here is invented, including the numbers the "organization" supplies. Don't reuse them.
+Each file is a worked output from following the skills for one invented organization. The request at the top of each file is what the agent was given. Every organization, funder, figure, and story here is invented, including the numbers the "organization" supplies. Don't reuse them. Each example opens with a **Fictional sample data** note, and key figures are marked *(sample)*.
 
 These outputs were written by following the skills by hand, not recorded from a live run in an AI tool.
 

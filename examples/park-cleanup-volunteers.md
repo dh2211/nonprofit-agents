@@ -1,6 +1,8 @@
 # Park cleanup day: event and volunteers
 
-> **Request.** We're Greener Fields Trust (invented). Plan a park cleanup on Saturday 9 May, 9:00 to 12:00, at Millbrook Park, for about 60 volunteers. Budget 600: gloves and litter pickers we already own; we need bags (80), refreshments (150), first-aid kit restock (50), printed signs (60). Council has to approve the event; we've applied. Our policy: under-16s must come with an adult; two team leaders per area. Roles: team leaders (6) and general volunteers. Areas: Pond, Playground, Woodland. Also write the team leader role and a shift schedule with reminders.
+> **Fictional sample data.** Every organization, person, and number in this example is invented to show the format. None of the figures is real or a benchmark. Key sample figures are marked *(sample)*. In your own work, use only figures from your own records.
+
+> **Request.** We're Greener Fields Trust (invented). Plan a park cleanup on Saturday 9 May, 9:00 to 12:00, at Millbrook Park, for about 60 volunteers. Budget *(sample)* 600: gloves and litter pickers we already own; we need bags (80), refreshments (150), first-aid kit restock (50), printed signs (60). Council has to approve the event; we've applied. Our policy: under-16s must come with an adult; two team leaders per area. Roles: team leaders (6) and general volunteers. Areas: Pond, Playground, Woodland. Also write the team leader role and a shift schedule with reminders.
 
 ## Event plan (`npo-event-plan`)
 
