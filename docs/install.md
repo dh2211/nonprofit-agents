@@ -33,7 +33,7 @@ Codex, Cursor, Grok, and OpenCode all document `~/.agents/skills/` as a personal
 macOS or Linux, personal scope:
 
 ```bash
-git clone https://github.com/NonprofitKit/nonprofit-agents.git
+git clone https://github.com/dh2211/nonprofit-agents.git
 mkdir -p ~/.agents/skills
 cp -R nonprofit-agents/skills/* ~/.agents/skills/
 ```
@@ -41,7 +41,7 @@ cp -R nonprofit-agents/skills/* ~/.agents/skills/
 Windows PowerShell, personal scope:
 
 ```powershell
-git clone https://github.com/NonprofitKit/nonprofit-agents.git
+git clone https://github.com/dh2211/nonprofit-agents.git
 New-Item -ItemType Directory -Force "$HOME\.agents\skills"
 Copy-Item -Recurse nonprofit-agents\skills\* "$HOME\.agents\skills\"
 ```

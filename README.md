@@ -15,7 +15,7 @@ Every figure, outcome, quote, and story must come from your own records. The ski
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/NonprofitKit/nonprofit-agents.git
+   git clone https://github.com/dh2211/nonprofit-agents.git
    ```
 
 2. Copy the `skills/` folders into the skills folder your agent reads. For Claude Code on macOS or Linux:
